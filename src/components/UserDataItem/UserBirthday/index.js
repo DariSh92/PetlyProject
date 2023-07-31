@@ -1,0 +1,1 @@
+export { UserBirthday } from './UserBirthday';
